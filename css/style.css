@@ -1,0 +1,13 @@
+#container {
+	text-align: center;
+	min-width: 220px;
+}
+
+table {
+	min-width: 220px;
+}
+
+td, th{ 
+	border-collapse: collapse; 
+	border-bottom: 1px dotted #999; 
+} 
